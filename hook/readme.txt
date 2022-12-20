@@ -1,1 +1,0 @@
-Ceci est un texte explicatif concernant le test d'une mise en place d'un hook 
